@@ -1,0 +1,13 @@
+/* <<<<<<<<<<<<<< FOUR-0-FOUR IMAGE AND MSG  >>>>>>>>>>>>>>  */
+.four-0-four {
+  display: block;
+  margin: 60px auto;
+}
+.four-0-four-msg {
+  text-align: center;
+  text-transform: capitalize;
+  color: #333;
+}
+.four-0-four-msg a {
+  color: #333;
+}
