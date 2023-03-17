@@ -60,7 +60,7 @@ footer {
   margin-left: 20px;
   text-transform: capitalize;
 }
-.social-link :nth-child(1) {
+.social-link:nth-child(1) {
   margin-left: 0;
 }
 .footer-credit {
